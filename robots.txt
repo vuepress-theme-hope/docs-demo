@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://vuepress-theme-hope.gitee.io/docs-demo/sitemap.xml
